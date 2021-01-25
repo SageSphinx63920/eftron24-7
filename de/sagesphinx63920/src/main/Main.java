@@ -44,7 +44,7 @@ public class Main {
     	//Online
 		System.out.println("+++++\nEftron 24/7 wurde gestartet :) \n+++++\n\n");
 
-		builder = JDABuilder.createDefault("NzkyMTQ4Nzg5MTAzOTUxODgy.X-ZgDA.2KNFu5zrG8Hc26HBLcdsi8RaSOc");
+		builder = JDABuilder.createDefault("Meinen Token bekommst du nicht");
 
 		builder.setActivity(Activity.listening("24/7 Musik"));
 		builder.setAutoReconnect(true);
